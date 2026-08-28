@@ -9,8 +9,9 @@ A passionate Software Engineering student || Building things with Flutter || PHP
 * 💬 Ask me about: PHP, MySQL, Flutter, Git & GitHub
 * ⚡ Fun fact: I love tech and tech loves me back
 
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laiba-dev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Laiba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laibaqasim180@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laiba-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laibaqasim180@gmail.com) 
 
 <!-- Snake Game Repo View -->
 <div align="center">
@@ -34,9 +35,6 @@ A passionate Software Engineering student || Building things with Flutter || PHP
 [![](https://komarev.com/ghpvc/?username=laibacodes26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-* **[StockFlow](https://github.com/laibacodes26/stockflow)** — PHP/MySQL e-commerce project with a Daraz/Temu-style redesign
-* **[Cafe Ordering System](https://github.com/laibacodes26/cafe-ordering-system)** — Ordering system built using Assembly language
-* **[Fire and Smoke Detection System](https://github.com/laibacodes26/fire-smoke-detection)** — Arduino-based safety/detection system
 
 ---
 [![](https://komarev.com/ghpvc/?username=laibacodes26&icon=0&color=0)](https://visitcount.itsvg.in)
